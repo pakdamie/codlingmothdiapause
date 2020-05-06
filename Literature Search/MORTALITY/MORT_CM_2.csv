@@ -1,0 +1,36 @@
+TEMP,Duration,Survivorship,Per_cap_mort,Stage,Source
+-1,23,0.035,0.063301389,Egg,Other
+0,7,0.134,0.287130783,Egg,Yokoyama
+0.1,55,0.78,0.004517479,Egg,Moffitt and Burditt
+13.9,22.7,0.591,0.02316913,Egg,Howell and Neven
+14.8,17.7,0.843,0.009649058,Egg,Howell and Neven
+20.1,8.7,0.743,0.03414474,Egg,Howell and Neven
+25.5,5.3,0.495,0.132678777,Egg,Howell and Neven
+29.6,4.4,0.37,0.225966426,Egg,Howell and Neven 
+34.4,1,0.05,1,Egg,Chidawanyika
+-25,1,0.02,1,Larvae,Khani
+-10,1,0.98,0.020202707,Larvae,Khani
+-1,21,0.113,0.103827022,Larvae,Other
+0,28,0.92,0.002977915,Larvae,Neven
+5,28,0.78,0.00887362,Larvae,Neven
+14.8,53.3,0.62,0.008968777,Larvae,Howell and Neven
+20.1,26.3,0.75,0.010938482,Larvae,Howell and Neven
+25.5,16.3,0.78,0.015243028,Larvae,Howell and Neven
+29.6,15.3,0.59,0.0344858,Larvae,Howell and Neven
+35,15.7,0.18,0.10922283,Larvae,Howell and Neven
+14.8,53.7,0.597,0.009605925,Pupae,Howell and Neven
+20.1,23.3,0.853,0.006823851,Pupae,Howell and Neven
+25.5,15.3,0.947,0.003559228,Pupae,Howell and Neven
+29.6,13.5,1,0,Pupae,Howell and Neven
+35,0,0,1,Pupae,Howell and Neven
+12.7,129.8,0.76,0.002114305,Diapausing_Larv,
+15.1,80.7,0.825,0.00238379,Diapausing_Larv,
+17.6,60.9,0.818,0.003298735,Diapausing_Larv,
+19.9,46.5,0.802,0.00474509,Diapausing_Larv,
+22.4,37,0.793,0.006268434,Diapausing_Larv,
+25.1,29.1,0.858,0.005262927,Diapausing_Larv,
+19,0.9967,14.62,0.000226091,OFMP,
+22,0.9947,9.57,0.000555287,OFMP,
+25,0.9543,7.28,0.006425438,OFMP,
+28,0.7953,7.52,0.030456899,OFMP,
+31,0.5964,6.96,0.074259152,OFMP,
